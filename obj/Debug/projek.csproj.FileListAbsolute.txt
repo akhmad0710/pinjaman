@@ -1,0 +1,7 @@
+D:\Amikom\pemrog\projekk\projek\projek\bin\Debug\projek.exe.config
+D:\Amikom\pemrog\projekk\projek\projek\bin\Debug\projek.exe
+D:\Amikom\pemrog\projekk\projek\projek\bin\Debug\projek.pdb
+D:\Amikom\pemrog\projekk\projek\projek\obj\Debug\projek.csprojAssemblyReference.cache
+D:\Amikom\pemrog\projekk\projek\projek\obj\Debug\projek.csproj.CoreCompileInputs.cache
+D:\Amikom\pemrog\projekk\projek\projek\obj\Debug\projek.exe
+D:\Amikom\pemrog\projekk\projek\projek\obj\Debug\projek.pdb
